@@ -32,7 +32,7 @@ Promotion and Retention:
 Distance and Job Levels:
 
 1. Most employees live close to the workplace, with only a small percentage having a long commute.
-2. Level 3 has the largest concentration of employees, indicating this might be a critical operational level within the organization.
+2. Level 1 has the largest concentration of employees, indicating this might be a critical operational level within the organization.
 
 Job Satisfaction:
 
